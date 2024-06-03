@@ -1,7 +1,5 @@
 Hi, I'm an Unreal Engine programmer specializing in gameplay & tools programming. 👋
 
-## Connect with Me
-
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <a href="https://dev.epicgames.com/community/profile/672D/Pullsar" style="margin: 0 10px;">
         <img src="https://img.shields.io/badge/Community-1E1E1E?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Community" style="height: 30px; width: 100px;">
