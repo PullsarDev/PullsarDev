@@ -7,7 +7,7 @@ Hi, I'm an Unreal Engine programmer specializing in gameplay & tools programming
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" style="height: 30px;">
     </a>
     <a href="https://pullsar.itch.io/" style="margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio" alt="Itch.io" style="height: 30px;">
+        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io" alt="Itch.io" style="height: 30px;">
     </a>
     <a href="https://www.linkedin.com/in/akpinarab/" style="margin: 0 10px;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="height: 30px;">
