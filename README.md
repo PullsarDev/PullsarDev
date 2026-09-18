@@ -1,4 +1,4 @@
-Hi, I'm an Unreal Engine programmer focused on gameplay systems, editor tools, and developer workflows. 👋
+Hi, I'm an Unreal Engine programmer focused on gameplay systems, editor tools, and developer workflows.
 
 ## Links
 
